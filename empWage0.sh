@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Welcome to the Employee computation program"
+echo " Welcome to Employee Wage Computation Program " ;
